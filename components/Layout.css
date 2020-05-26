@@ -1,0 +1,12 @@
+.menu {
+    margin-right: 10px;
+    padding:10px;
+    font-size: large;
+    font-weight: 600;
+}
+.menu a{
+color: white !important;
+}
+.menuBar a{
+    color: white !important;
+}

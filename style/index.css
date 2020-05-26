@@ -1,0 +1,19 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.mainDiv {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.row{
+    margin-right: 15px !important;
+    margin-left: 15px !important;
+}
+
+.subDiv {
+    height: 100%;
+    text-align: center;
+}
